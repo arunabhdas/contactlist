@@ -11,3 +11,7 @@ ContactList
 
 
 ![alt text](https://github.com/arunabhdas/contactlist/blob/master/screenshots/screenshot_01.png "Screenshot 1")
+
+![alt text](https://github.com/arunabhdas/contactlist/blob/master/screenshots/screenshot_02.png "Screenshot 2")
+
+![alt text](https://github.com/arunabhdas/contactlist/blob/master/screenshots/screenshot_03.png "Screenshot 3")
